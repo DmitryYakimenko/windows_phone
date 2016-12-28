@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-46OOGKN</Machine>
+    <WindowsUser>dimon</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>97557931-2379-4710-a204-fd3d5064bff8</PackageIdentityName>
+    <PackageIdentityPublisher>CN=dimon</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\windows_phone\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\windows_phone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\windows_phone\bin\Debug\windows_phone.exe">
+      <PackagePath>windows_phone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\windows_phone\bin\Debug\windows_phone.exe.config">
+      <PackagePath>windows_phone.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\packages\Newtonsoft.Json.9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\windows_phone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\windows_phone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\windows_phone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\windows_phone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\windows_phone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\windows_phone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\windows_phone\bin\Debug\windows_phone.xr.xml">
+      <PackagePath>windows_phone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\windows_phone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\windows_phone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\users\dimon\onedrive\документы\visual studio 2015\Projects\windows_phone\windows_phone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
